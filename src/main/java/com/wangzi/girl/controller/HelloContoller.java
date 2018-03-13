@@ -22,6 +22,7 @@ import java.util.List;
 public class HelloContoller {
 
     //
+    private  String s;
     @Autowired
     private GirlRepository
             girlRepository;
