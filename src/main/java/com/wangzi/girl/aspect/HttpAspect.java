@@ -28,6 +28,7 @@ public class HttpAspect {
      */
     @Pointcut("execution(public * com.wangzi.girl.controller.*.*(..))")
     public void log(){
+        System.out.println("xx");
     }
 
     @Before("log()")
