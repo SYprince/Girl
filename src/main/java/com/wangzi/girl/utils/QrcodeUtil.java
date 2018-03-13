@@ -11,7 +11,7 @@ public class QrcodeUtil {
 
 
     public QRCode createQrcode(){
-        String s;
+        /*String s;
         String.format(s, )
                 s.
         QRCode qrCode = new QRCode();
@@ -20,6 +20,7 @@ public class QrcodeUtil {
                 ("") -> qrCode;
                 () -> (qrCode.qrCode)
             }
-        }
+        }*/
+        return null;
     }
 }
