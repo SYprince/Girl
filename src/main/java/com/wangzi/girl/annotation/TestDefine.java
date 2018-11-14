@@ -25,6 +25,5 @@ public class TestDefine {
     @DefineAnnotation(value = "true")
     void test1(){
 
-
     }
 }
